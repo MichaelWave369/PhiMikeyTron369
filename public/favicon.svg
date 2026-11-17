@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+ <rect width="64" height="64" rx="17" fill="#101c25"/>
+ <rect x="2" y="2" width="60" height="60" rx="15" fill="none" stroke="#73d7c8" stroke-width="2"/>
+ <text x="11" y="46" font-size="43" fill="#adfae0" font-family="serif">Φ</text>
+ <text x="39" y="53" font-family="monospace" font-weight="bold" font-size="10" fill="#f6d18c">369</text>
+</svg>
